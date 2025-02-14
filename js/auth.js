@@ -1,4 +1,4 @@
-import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js";
+
 // ... كل الكود كما هو ...
 // جميع الاسطر الموجودة في AUTH.JS تبقى كما هي
 
